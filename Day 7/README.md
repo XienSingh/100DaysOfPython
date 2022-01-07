@@ -1,2 +1,2 @@
-Day 7 - Building Hangman
+Day 7 - Building Hangman Game
 
