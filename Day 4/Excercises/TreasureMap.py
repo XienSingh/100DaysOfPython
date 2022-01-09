@@ -13,7 +13,7 @@ column = int(position[0]) - 1
 row = int(position[1]) - 1
 
 map[row][column] = "  X  "
-1
+
 
 
 
