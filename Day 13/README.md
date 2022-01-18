@@ -1,1 +1,1 @@
-Day 13 - Debugging - Theory, no pracs.
+Day 13 - Debugging - Theory, no practicals for the day.
